@@ -5,13 +5,13 @@
 
 > Developer email address *
 ```
-Enter Your Developer Email Address
+javaerrorhelpline@gmail.com
 ```
 <br>
 
 > Developer/Business Name *
 ```
-Enter Your Developer Name
+Javaerror
 ```
 <br>
 
@@ -28,7 +28,7 @@ No, this developer account was created and is managed directly by us. Our team c
 <br>
 
 ## Your app's core functionality
-> Does your app function differently based on a user's geolocation or language? If yes, why? *
+> Does your app function differently based on a user's geolocation or language? If yes, why? <br> ব্যবহারকারীর ভূ-অবস্থান বা ভাষার উপর ভিত্তি করে আপনার অ্যাপ কি ভিন্নভাবে কাজ করে? *
 
 Type 1:
 ```
