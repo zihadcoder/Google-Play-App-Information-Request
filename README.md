@@ -62,7 +62,7 @@ In both cases, we prioritize user privacy and security by adhering to Google's p
 <br>
 <br>
 
-> Have you uploaded all Proof of Permission for any intellectual property that appears in your app? *
+> Have you uploaded all Proof of Permission for any intellectual property that appears in your app? <br> আপনি কি আপনার অ্যাপে প্রদর্শিত কোনো মেধা সম্পত্তির অনুমতির সমস্ত প্রমাণ আপলোড করেছেন? *
 - [ ] Yes   [we have uploaded all necessary Proof of Permission.]
 - [ ] No    [we have not uploaded all necessary Proof of Permission.]
 - [ ] No third party intellectual property appears in my app   [No third-party intellectual property appears in our app]
@@ -85,11 +85,11 @@ In both cases, we prioritize user privacy and security by adhering to Google's p
 ## User Data, 3rd Party Code, and SDKs
 > What SDKs does your app use and why? *
 ```
-In our app, we use several SDKs to enhance functionality and improve the user experience:
+In our app, we use several SDKs to enhance functionality and improve the user experience: <br> আমাদের অ্যাপে, আমরা কার্যকারিতা বাড়াতে এবং ব্যবহারকারীর অভিজ্ঞতা উন্নত করতে বেশ কিছু SDK ব্যবহার করি:
 
-1. AndroidPdfViewer (barteksc): This library is used specifically to display PDF files within our application. It enables smooth and easy PDF viewing without having to leave the app.
+1. AndroidPdfViewer (barteksc): This library is used specifically to display PDF files within our application. It enables smooth and easy PDF viewing without having to leave the app. <br> এই লাইব্রেরিটি বিশেষভাবে আমাদের অ্যাপ্লিকেশনের মধ্যে PDF ফাইল প্রদর্শনের জন্য ব্যবহৃত হয়। এটি অ্যাপটি ছেড়ে না দিয়ে মসৃণ এবং সহজ পিডিএফ দেখার সক্ষম করে।
 
-2. Volley: We use this for network data processing and transmission. It's a google library that makes networking for Android apps easier and most importantly, faster.
+2. Volley: We use this for network data processing and transmission. It's a google library that makes networking for Android apps easier and most importantly, faster. <br> নেটওয়ার্ক ডেটা প্রসেসিং এবং ট্রান্সমিশনের জন্য আমরা এটি ব্যবহার করি। এটি একটি গুগল লাইব্রেরি যা অ্যান্ড্রয়েড অ্যাপের জন্য নেটওয়ার্কিং সহজ এবং সবচেয়ে গুরুত্বপূর্ণভাবে দ্রুততর করে তোলে।
 ```
 
 Example of other libraries you can use it:
@@ -97,33 +97,33 @@ Example of other libraries you can use it:
 Our app utilizes several SDKs to enhance its functionality and provide a seamless user experience. Here is a list of the key SDKs and their purposes:
 
 1. Firebase BOM (com.google.firebase:firebase-bom:32.6.0):
-Used to manage Firebase dependencies and ensure compatibility between different Firebase components.
+Used to manage Firebase dependencies and ensure compatibility between different Firebase components. <br> Firebase নির্ভরতাগুলি পরিচালনা করতে এবং বিভিন্ন Firebase উপাদানগুলির মধ্যে সামঞ্জস্য নিশ্চিত করতে ব্যবহৃত হয়।
 
 2. Firebase Messaging (com.google.firebase:firebase-messaging):
-Used for push notifications, enabling real-time communication with users and enhancing user engagement.
+Used for push notifications, enabling real-time communication with users and enhancing user engagement. <br> পুশ বিজ্ঞপ্তির জন্য ব্যবহৃত হয়, ব্যবহারকারীদের সাথে রিয়েল-টাইম যোগাযোগ সক্ষম করে এবং ব্যবহারকারীর ব্যস্ততা বাড়ায়।
 
 3. Picasso (com.squareup.picasso:picasso:2.71828):
-Employed for efficient and hassle-free image loading, contributing to a smoother user interface.
+Employed for efficient and hassle-free image loading, contributing to a smoother user interface. <br> দক্ষ এবং ঝামেলা-মুক্ত ইমেজ লোড করার জন্য নিযুক্ত, একটি মসৃণ ব্যবহারকারী ইন্টারফেসে অবদান।
 
 4. Neumorphism Library (com.github.fornewid:neumorphism:0.2.1):
-Implemented to achieve a neumorphic design, enhancing the visual appeal and user experience of the app.
+Implemented to achieve a neumorphic design, enhancing the visual appeal and user experience of the app. <br> অ্যাপটির ভিজ্যুয়াল আবেদন এবং ব্যবহারকারীর অভিজ্ঞতা বৃদ্ধি করে একটি নিউমরফিক ডিজাইন অর্জনের জন্য প্রয়োগ করা হয়েছে।
 
 5. Image Slideshow Library (com.github.denzcoskun:ImageSlideshow:0.1.0):
-Utilized for creating image slideshows, providing an interactive and dynamic way to present visual content.
+Utilized for creating image slideshows, providing an interactive and dynamic way to present visual content. <br> চিত্রের স্লাইডশো তৈরির জন্য ব্যবহার করা হয়েছে, ভিজ্যুয়াল সামগ্রী উপস্থাপন করার জন্য একটি ইন্টারেক্টিভ এবং গতিশীল উপায় প্রদান করে।
 
 6. Lottie Animation (com.airbnb.android:lottie:3.4.1):
-Integrated for seamless and eye-catching animations, contributing to a more engaging user interface.
+Integrated for seamless and eye-catching animations, contributing to a more engaging user interface. <br> আরও আকর্ষক ইউজার ইন্টারফেসে অবদান রেখে নিরবচ্ছিন্ন এবং নজরকাড়া অ্যানিমেশনের জন্য সমন্বিত।
 
 7. Volley (com.android.volley:volley:1.2.1):
-Employed for efficient and convenient handling of network requests, ensuring smooth communication with servers.
+Employed for efficient and convenient handling of network requests, ensuring smooth communication with servers. <br> সার্ভারের সাথে মসৃণ যোগাযোগ নিশ্চিত করে নেটওয়ার্ক অনুরোধের দক্ষ এবং সুবিধাজনক পরিচালনার জন্য নিযুক্ত করা হয়েছে।
 
 8. Circle ImageView (de.hdodenhof:circleimageview:3.1.0):
-Utilized to display circular images in the app, enhancing the visual presentation of user profile pictures.
+Utilized to display circular images in the app, enhancing the visual presentation of user profile pictures. <br> ব্যবহারকারীর প্রোফাইল ছবিগুলির ভিজ্যুয়াল উপস্থাপনা বাড়িয়ে অ্যাপে বৃত্তাকার ছবিগুলি প্রদর্শন করতে ব্যবহৃত হয়।
 
 9. MotionToast (com.github.Spikeysanju:MotionToast:1.0):
-Integrated for customized and visually appealing toast messages, providing informative feedback to users.
+Integrated for customized and visually appealing toast messages, providing informative feedback to users. <br> ব্যবহারকারীদের তথ্যপূর্ণ প্রতিক্রিয়া প্রদান করে কাস্টমাইজড এবং দৃশ্যত আকর্ষণীয় টোস্ট বার্তাগুলির জন্য সমন্বিত।
 
-Each of these SDKs plays a crucial role in enhancing different aspects of our app, contributing to its overall functionality, aesthetics, and user engagement.
+Each of these SDKs plays a crucial role in enhancing different aspects of our app, contributing to its overall functionality, aesthetics, and user engagement. <br> এই SDK-এর প্রতিটি আমাদের অ্যাপের বিভিন্ন দিক উন্নত করতে, এর সামগ্রিক কার্যকারিতা, নান্দনিকতা এবং ব্যবহারকারীর ব্যস্ততায় অবদান রাখতে গুরুত্বপূর্ণ ভূমিকা পালন করে।
 ```
 > [!NOTE]
 > This should be written according to the functionality of your app. An example is given above
@@ -132,7 +132,7 @@ Each of these SDKs plays a crucial role in enhancing different aspects of our ap
 <br>
 <br>
 
-> Explain how you ensure that any 3rd party code and SDKs used in your app comply with our policies. *
+> Explain how you ensure that any 3rd party code and SDKs used in your app comply with our policies. * <br> আপনার অ্যাপে ব্যবহৃত যেকোন থার্ড পার্টি কোড এবং SDK আমাদের নীতি মেনে চলার বিষয়টি আপনি কীভাবে নিশ্চিত করেন তা ব্যাখ্যা করুন
 ```
 In the 'Your App Name' app, we take compliance with Google's policies seriously, particularly in the use of third-party codes and SDKs. The two third-party libraries we incorporated in our app are 'barteksc AndroidPdfViewer' and 'Volley Android'. Here's how we ensure that these integrate well with Google's policies:
 
@@ -148,7 +148,21 @@ Regular Testing: Rigorous tests are performed to ensure that functionality elici
 
 Transparency and Documentation: Keeping precise records of policy compliance for any third-party code is crucial. We maintain comprehensive documentation for every library we use, which includes 'barteksc AndroidPdfViewer' and 'Volley Android.'
 
-By implementing these measures, we are confident that our use of third-party codes and SDKs in the 'Your App Name' app is in full compliance with Google's policies.
+By implementing these measures, we are confident that our use of third-party codes and SDKs in the 'Your App Name' app is in full compliance with Google's policies. <br> 'আপনার অ্যাপের নাম' অ্যাপে, আমরা Google-এর নীতিগুলিকে গুরুত্ব সহকারে মেনে চলি, বিশেষ করে তৃতীয়-পক্ষের কোড এবং SDK-এর ব্যবহারে। আমাদের অ্যাপে আমরা যে দুটি তৃতীয় পক্ষের লাইব্রেরি অন্তর্ভুক্ত করেছি তা হল 'barteksc AndroidPdfViewer' এবং 'Volley Android'। আমরা কীভাবে নিশ্চিত করি যে এইগুলি Google-এর নীতিগুলির সাথে ভালভাবে একত্রিত হয় তা এখানে রয়েছে:
+
+তৃতীয় পক্ষের নীতির ব্যাপক পর্যালোচনা: আমাদের অ্যাপ্লিকেশনে কোনো তৃতীয় পক্ষের লাইব্রেরি অন্তর্ভুক্ত করার আগে, আমরা তাদের নীতিগুলির একটি নিবিড় পর্যালোচনা করি যাতে তারা Google-এর প্রয়োজনীয়তার সাথে সামঞ্জস্যপূর্ণ হয়। এই পর্যালোচনা প্রক্রিয়ার মধ্যে ডেটা হ্যান্ডলিং, গোপনীয়তা, নিরাপত্তা এবং নীতি সম্মতির অন্যান্য গুরুত্বপূর্ণ দিকগুলি অন্তর্ভুক্ত রয়েছে।
+
+লাইসেন্সিং চুক্তির আনুগত্য: আমরা নিশ্চিত করি যে আমাদের 'barteksc AndroidPdfViewer' এবং 'Volley Android'-এর ব্যবহার তাদের নিজ নিজ লাইসেন্সিং চুক্তির সীমার মধ্যে থাকে, যা Google-এর নিজস্ব নীতি বেসলাইনের সাথে দ্বন্দ্ব করে না।
+
+নিয়মিত গোপনীয়তা এবং নিরাপত্তা অডিট: আমাদের দল ঘন ঘন নিরাপত্তা অডিট পরিচালনা করে যার মধ্যে তৃতীয় পক্ষের কোড পরীক্ষা করা হয় যাতে তারা অ্যাপ্লিকেশনের সাথে সুরক্ষিতভাবে সারিবদ্ধ হয় এবং ডেটা নিরাপত্তা বা ব্যবহারকারীর গোপনীয়তার জন্য কোনো হুমকি না দেয়, যা Google-এর সাথে সামঞ্জস্যপূর্ণ। মান
+
+সময়োপযোগী আপডেট: তৃতীয় পক্ষের লাইব্রেরি থেকে আপডেটের সমপর্যায়ে রাখা গুরুত্বপূর্ণ। আপডেটগুলি প্রায়শই সুরক্ষা সমস্যা, প্যাচ দুর্বলতাগুলিকে সমাধান করে এবং মান এবং নীতিগুলির সাথে সম্মতি বাড়ায় এমন উন্নতিগুলি প্রবর্তন করে৷ তাই, আমরা আমাদের অ্যাপে এই তৃতীয় পক্ষের কোডগুলির সময়মত আপডেট নিশ্চিত করি।
+
+নিয়মিত পরীক্ষা: এই তৃতীয় পক্ষের কোডগুলি থেকে প্রাপ্ত কার্যকারিতা Google-এর নীতিগুলি মেনে চলার সময় আমাদের অ্যাপের মধ্যে নির্বিঘ্নে কাজ করে তা নিশ্চিত করার জন্য কঠোর পরীক্ষা করা হয়।
+
+স্বচ্ছতা এবং ডকুমেন্টেশন: যেকোনো তৃতীয় পক্ষের কোডের জন্য নীতি সম্মতির সুনির্দিষ্ট রেকর্ড রাখা অত্যন্ত গুরুত্বপূর্ণ। আমরা আমাদের ব্যবহার করা প্রতিটি লাইব্রেরির জন্য ব্যাপক ডকুমেন্টেশন বজায় রাখি, যার মধ্যে রয়েছে 'barteksc AndroidPdfViewer' এবং 'Volley Android'।
+
+এই ব্যবস্থাগুলি বাস্তবায়ন করে, আমরা নিশ্চিত যে 'আপনার অ্যাপের নাম' অ্যাপে আমাদের তৃতীয়-পক্ষের কোড এবং SDK-এর ব্যবহার Google-এর নীতিগুলির সাথে সম্পূর্ণ সম্মতি দিচ্ছে৷
 ```
 
 > [!NOTE]
